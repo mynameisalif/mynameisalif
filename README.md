@@ -4,7 +4,12 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
 ## 	:handshake: You can connect with me in
-
+<a href="https://www.linkedin.com/in/ihsanulalif/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" />
+</a>
+<a href="https://github.com/mynameisalif">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="50" />
+</a>
 
 ## My stats :medal_sports:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
