@@ -8,7 +8,6 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisalif&layout=compact)](https://github.com/mynameisalif)
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 <!--
 **mynameisalif/mynameisalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
