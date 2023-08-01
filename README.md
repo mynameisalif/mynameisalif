@@ -7,7 +7,10 @@
 <a href="https://www.linkedin.com/in/ihsanulalif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvigeovanny" height="30" width="40" /></a>
 <a href="https://github.com/mynameisalif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="alvigeovanny" height="30" width="40" /></a>
 
-## My stats :medal_sports:
+## Languages and Tools:
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+## :medal_sports: My stats 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisalif&layout=compact)](https://github.com/mynameisalif)
