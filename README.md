@@ -17,10 +17,8 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-## :medal_sports: My stats 
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisalif&layout=compact)](https://github.com/mynameisalif)
+<h3 align="left"> :medal_sports: My stats </h3>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mynameisalif&theme=algolia" alt="alif"  /></p>
 <!--
 **mynameisalif/mynameisalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
