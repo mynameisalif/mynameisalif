@@ -3,8 +3,9 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/Naereen/StrapDown.js.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
 
 ## 	:handshake: You can connect with me in
-<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/ihsanulalif/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="mynameisalif | LinkedIn" width="21px"/></a>
 
+#
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisalif&layout=compact)](https://github.com/mynameisalif)
