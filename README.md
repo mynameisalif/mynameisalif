@@ -19,6 +19,14 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <h3 align="left"> :medal_sports: My stats </h3>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mynameisalif&theme=algolia" alt="alif"  /></p>
+<p align="center">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mynameisalif&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="alif" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mynameisalif&show_icons=true&locale=en&theme=nightowl" alt="alif" width="410" /></p>
+<br><br><br><br>
+
+
+
+
 <!--
 **mynameisalif/mynameisalif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
