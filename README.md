@@ -5,7 +5,7 @@
 ## 	:handshake: You can connect with me in
 <a href="https://www.linkedin.com/in/ihsanulalif/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="mynameisalif | LinkedIn" width="21px"/></a>
 
-#
+# My stats :medal_sports:
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=mynameisalif)](https://github.com/mynameisalif)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mynameisalif&layout=compact)](https://github.com/mynameisalif)
